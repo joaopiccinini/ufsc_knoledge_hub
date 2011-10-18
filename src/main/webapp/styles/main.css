@@ -1,0 +1,186 @@
+*{ margin: 0; padding: 0; }
+
+body { 
+	font: 12px "Tahoma", Sans-Serif; 
+	color: #444; 
+	background: black url('../images/t4.jpg');	
+}
+
+div {float: left;position: relative;}
+
+#tudo { width: 900px; left: 50%; position: absolute; margin-left: -450px; }
+ 
+#header { 
+	width: 100%; 
+	height: auto;  
+	border-bottom: 1px solid black;
+	border-radius: 0 0 20px 20px;
+	background: #00166e url('../images/bluebg.png') repeat-x;
+}
+	#header h1 {
+		color: white;	
+		font-size: 240px;
+		font-weight: bold;
+		line-height: 230px;
+		float: left;
+		width: 500px;
+		margin-left: 60px;
+		text-shadow: #b0bce8 0px 0px 20px;
+	}
+
+	#header h2 {
+		color: white;	
+		font-size: 24px;
+		font-weight: normal;
+		text-shadow: 10px;
+		margin: 25px 0px 10px 100px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		border-top: 1px solid white;
+		border-bottom: 1px solid white;
+		float: left;
+		width: 170px;
+		text-align: center;		
+	}
+
+#menu-wrapper {
+	background-color: #444;
+	border: 1px solid #aaa;
+	border-top: 0;
+	height: 40px;
+	width: 540px;
+	margin-left: 180px; 
+	margin-right: 180px;	
+}
+
+	#menu  { margin-left: 20px; list-style: none; }
+		#menu li { display: inline; }
+		#menu a { 
+			display: block; 
+			float: left; 
+			margin-left: 20px;
+			line-height: 30px; 
+			text-decoration: none; 
+			font-size: 12px; 
+			color: white;			
+			margin-top: 5px;
+		}
+		#menu a:hover, #menu .active a  { text-shadow: #b0bce8 0px 0px 7px; }
+ 
+#conteudo {
+	margin-top: 10px;
+	border: 1px solid #ddd;
+	height: auto;
+	width: 858px;
+	background-color: white;
+	padding: 20px;
+}
+
+	h3 {
+		margin-bottom: 20px;
+		font-size: 24px;
+	}
+		
+	h4 {
+		margin-bottom: 10px;
+		font-size: 18px;
+	}
+
+	#conteudo ul {
+		margin-left: 15px;		
+	}
+
+	#conteudo ul li {
+		margin-bottom: 5px;
+	}
+	
+	#conteudo ul li a{
+		color: #444;
+		line-height: 1.2em;
+		font-size: 11px;		
+		text-decoration: none;
+	}
+	#conteudo ul li a:hover {color: #00166e; text-decoration: underline;}
+
+	p {
+		margin-bottom: 20px;
+		text-align: justify;
+		font-size: 14px;
+	}
+
+.bloco_fase {
+	width: 200px;
+	padding-right: 9px;	
+	margin-right: 9px;
+	height: 160px;
+	border-right: 1px solid #ccc;
+	margin-bottom: 20px;
+}
+
+a.download {display: block;margin-bottom: 10px;}
+.projeto {
+	width: 400px;
+	height: 260px;
+	margin-right: 24px;
+	padding-right: 24px;
+	margin-bottom: 40px;
+	border-top: 6px solid #6e5800;
+	padding-top: 10px;
+}	
+
+	.projeto .info {
+		width: 200px;	
+		margin-right: 20px;
+	}
+
+		.projeto .info h4 {font-size: 16px; margin-bottom: 5px; }
+		.projeto .info small {margin-bottom: 15px; }
+		.projeto .info p {font-size: 11px; }	
+
+	.projeto dl {
+		float: left;
+		width: 180px;
+	}
+	.projeto dl dt{
+		font-weight: bold;	
+		font-size: 11px;
+		margin-top: 10px;			
+	}
+	.projeto dl dd{
+		margin-left: 40px;
+		font-size: 11px;		
+		font-style: italic;
+	}
+		
+
+.first {margin-top: 0;}
+.last {margin-right: 0; padding-right: 0; border-right: 0;}
+
+label {
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+input.grande {
+	width: 858px;
+}
+
+textarea.grande {
+	width: 858px;
+	height: 80px;
+}
+
+
+#footer { 
+	width: 858px; 
+	padding: 20px;
+	border-top: 1px solid #ddd; 
+	background:  #00166e; 
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+}
+
+.success {color: darkgreen;} .error {color: darkred;}	

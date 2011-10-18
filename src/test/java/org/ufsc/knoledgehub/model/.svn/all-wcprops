@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/joaopiccinini/!svn/ver/743/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/test/java/org/ufsc/knoledgehub/model
+END
+UserDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/joaopiccinini/!svn/ver/830/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/test/java/org/ufsc/knoledgehub/model/UserDAOTest.java
+END
+DisciplineDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/joaopiccinini/!svn/ver/830/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/test/java/org/ufsc/knoledgehub/model/DisciplineDAOTest.java
+END
+ProgrammingLanguageDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/test/java/org/ufsc/knoledgehub/model/ProgrammingLanguageDAOTest.java
+END
+ProjectDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/test/java/org/ufsc/knoledgehub/model/ProjectDAOTest.java
+END

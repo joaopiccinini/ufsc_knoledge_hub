@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/joaopiccinini/!svn/ver/768/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/business
+END
+DisciplineBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/joaopiccinini/!svn/ver/819/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/business/DisciplineBusiness.java
+END
+LanguageBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/business/LanguageBusiness.java
+END
+UploadBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/joaopiccinini/!svn/ver/768/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/business/UploadBusiness.java
+END
+ProjectBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/joaopiccinini/!svn/ver/827/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/business/ProjectBusiness.java
+END
+UserBusiness.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/business/UserBusiness.java
+END

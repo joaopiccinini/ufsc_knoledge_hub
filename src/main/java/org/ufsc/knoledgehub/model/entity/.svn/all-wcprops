@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity
+END
+UserProjectPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/UserProjectPK.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/Author.java
+END
+Discipline.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/Discipline.java
+END
+LanguageCombination.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/LanguageCombination.java
+END
+ProgrammingLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/ProgrammingLanguage.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/Project.java
+END
+ProjectDisciplineLanguagePK.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/ProjectDisciplineLanguagePK.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/joaopiccinini/!svn/ver/814/projetos/programacao_web/knoledgehub/trunk/knoledgehub/src/main/java/org/ufsc/knoledgehub/model/entity/User.java
+END
